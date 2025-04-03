@@ -1,0 +1,7 @@
+id=roulette
+name=Russian Roulette
+version=v1.0
+versionCode=100
+author=ChiseWaguri
+description=Russian Roulette on action.sh
+updateJson=https://raw.githubusercontent.com/ChiseWaguri/roulette/master/update.json
